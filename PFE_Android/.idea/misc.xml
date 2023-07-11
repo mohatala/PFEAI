@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/activity_bp.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/activity_pdf.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/blood_donate.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/blood_donate_res.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/blood_vol_canidonate.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodalcoholcalc.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodalcoholcalc1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodalcoholresult.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodvolume.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodvolume1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodvolume2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bloodvolumeresult.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodyfatfemale.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodyfathome.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodyfathome1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodyfatmale.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodyfatmale1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodyfatresult.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodymassindex.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bodymassindex1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/bpresult.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/breath_count.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/calculator.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/calorie_calc.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/calorie_calc1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/calorie_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_alcohol.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_blood.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_calorie.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_fat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_heart.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_ideal.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_ovulation.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_preg.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/chart_water.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/disease_detector.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/eligibility_check.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/health_advices.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/heartrate.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/heartrate1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/heartrate_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/idealweightcalc.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/idealweightresult.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/list_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/ovulation.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/ovulationres.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/pdf_calorie.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/pregnancy.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/pregnancyres.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/respirationrateresult.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/spinner_down_blue.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/spinner_down_blue1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/understand_bmi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/waterintakecalc.xml" value="0.22826086956521738" />
+        <entry key="..\:/Master ALX/PFEAI/PFE_Android/app/src/main/res/layout/waterintakeresult.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

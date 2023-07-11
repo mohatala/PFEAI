@@ -1,0 +1,12 @@
+rapport
+1/ introduction
+
+2/ metodologie 
+  archtecture logiciel 
+  les outils dev 
+  interface graphique 
+  presentation android 
+  
+3/ comparison
+
+4/ bibliographie / conclusion

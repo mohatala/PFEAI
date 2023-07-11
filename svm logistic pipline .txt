@@ -1,0 +1,22 @@
+
+#svm
+"""svm=SVC()
+svm.fit(X_train, y_train)
+y_pred = svm.predict(X_test)
+acc = metrics.accuracy_score(y_test, y_pred)
+print("svm model accuracy:",acc,"estt:0.30")
+
+pred = svm.predict(df2)
+print(pred)
+"""
+"""clf = LogisticRegression(solver='lbfgs', max_iter=1000,random_state=0).fit(X_train, y_train)
+y_pred=clf.predict(X_test)
+#print(clf.predict_proba(X_test))
+print(clf.score(X_test, y_test))"""
+
+pipe = make_pipeline(StandardScaler(),
+                     LogisticRegression(solver='lbfgs', max_iter=1000))
+pipe.fit(X_train, y_train)
+y_pred = pipe.predict(X_test)
+accuracy_score = metrics.accuracy_score(y_pred,y_test)
+print('pipeline accuracy score : ',accuracy_score)
