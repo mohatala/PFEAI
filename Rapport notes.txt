@@ -2,7 +2,7 @@ rapport
 1/ introduction
 
 2/ metodologie 
-  archtecture logiciel 
+  architecture logiciel 
   les outils dev 
   interface graphique 
   presentation android 

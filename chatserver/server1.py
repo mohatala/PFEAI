@@ -4,6 +4,9 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import classification_report
+from sklearn.svm import SVC
+
 import io 
 
 data  = pd.read_csv("D:/Master ALX/PFEAI/New dataset/dataset.csv")
@@ -51,12 +54,17 @@ df_data = df.drop('Disease' , axis =1)
 label = data["Disease"]
 
 x_train, x_test, y_train, y_test = train_test_split(df_data, label, shuffle=True, train_size = 0.70)
-
+#print(y_train)
 knn = KNeighborsClassifier(n_neighbors=3)
 knn.fit(x_train, y_train)
 y_pred = knn.predict(x_test)
 acc = accuracy_score(y_test, y_pred)
+print(classification_report(y_test, y_pred))
 
+###############################
+
+
+##########################
 # Create a list of symptoms
 symptoms = ["muscle wasting", "patches in throat", "high fever", "extra marital contacts", "watering from eyes", "dizziness", "breathlessness"]
 

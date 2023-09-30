@@ -7,7 +7,7 @@ client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 host = socket.gethostname()
 
 # Connect to the server
-client_socket.connect(("3.92.182.175", 8000))
+client_socket.connect(("3.83.224.60", 8000))
 
 # Send a question to the server
 question = "What is the answer to life, the universe, and everything?"
